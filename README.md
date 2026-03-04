@@ -1,4 +1,4 @@
-# Machine Learning for Maize Production Analysis
+# Machine Learning para Analisis de Producción de Maíz
 
 Sistema de análisis y predicción de la producción de maíz utilizando técnicas de **Machine Learning** aplicadas a datos agrícolas. El proyecto busca identificar variables clave que influyen en el rendimiento del cultivo y generar modelos predictivos que apoyen la toma de decisiones en el sector agrícola.
 
@@ -30,7 +30,7 @@ Los datos base fueron proporcionados por la empresa **GPA**, incluyendo:
 
 ---
 
-## Data Engineering
+## Ingeniería de Datos
 
 El proyecto incluyó un proceso completo de ingeniería de datos para integrar, transformar y enriquecer múltiples fuentes de información agrícola y geoespacial antes del modelado.
 
