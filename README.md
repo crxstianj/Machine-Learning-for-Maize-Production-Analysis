@@ -56,44 +56,10 @@ El pipeline implementado consistió en:
 - Extracción de valores promedio por punto de muestreo.
 - Incorporación de variables espectrales al dataset final.
 
-### Limpieza y Transformación
-- Detección y manejo de valores nulos.
-- Eliminación de duplicados.
-- Normalización de unidades.
-- Validación de formatos temporales.
-- Generación de variables derivadas.
-
 ### Generación del Dataset Final
 - Integración de variables de siembra, suelo, clima y vegetación.
 - Consolidación de múltiples fuentes en un único dataset.
 - Preparación del dataset para análisis y modelado.
-
-Este proceso permitió construir un dataset enriquecido que captura relaciones complejas entre variables agronómicas, ambientales y espectrales, facilitando el entrenamiento de modelos predictivos robustos.
-
----
-
-## Objetivos
-
-- Identificar variables clave en la producción de maíz.
-- Aplicar técnicas de análisis de datos.
-- Realizar selección de modelos.
-- Reducir características mediante optimización multiobjetivo.
-- Minimizar el sobreajuste.
-- Analizar la influencia de variables relevantes en el rendimiento.
-
----
-
-## Tecnologías Utilizadas
-
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Scikit-learn
-- Pytorch
-- Matplotlib
-- Seaborn
-- Algoritmos Genéticos 
 
 ---
 
@@ -131,8 +97,6 @@ Se utilizaron estrategias evolutivas para:
 - Minimización del sobreajuste mediante optimización multiobjetivo.
 
 Finalmente, el **modelo neurodifuso** fue seleccionado como modelo final por su mejor desempeño predictivo.
-
-> Nota: Durante el proceso se evaluaron distintos modelos (ej. XGBoost, Random Forest), pero el modelo final del proyecto es el neurodifuso.
 
 ---
 
@@ -183,13 +147,18 @@ Machine-Learning-for-Maize-Production-Analysis/
 
 ---
 
-## Aplicaciones
+## Tecnologías Utilizadas
 
-- Agricultura de precisión.
-- Optimización de producción.
-- Análisis predictivo.
-- Soporte a decisiones.
-- Manejo inteligente de recursos.
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Scikit-learn
+- Pytorch
+- Matplotlib
+- Seaborn
+- Algoritmos Genéticos 
+
 
 ---
 
