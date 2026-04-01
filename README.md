@@ -138,11 +138,8 @@ Machine-Learning-for-Maize-Production-Analysis/
 
 ## Resultados
 
-- Identificación de factores determinantes en la producción de maíz.
-- Captura de relaciones no lineales entre variables agrícolas.
-- Reducción de dimensionalidad mediante optimización evolutiva.
-- Modelo neurodifuso con mejor desempeño predictivo (MAE 1.540).
 - Identificación de variables agronómicas y climáticas más influyentes.
+- Modelo con mejor desempeño predictivo (MAE 1.540).
 - Presentación y comunicación de los principales resultados y hallazgos del análisis, incluyendo la interpretación de variables clave y el impacto de los factores estudiados.
 
 ---
