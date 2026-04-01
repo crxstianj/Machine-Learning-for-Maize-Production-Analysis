@@ -6,7 +6,7 @@ Sistema de análisis y predicción de la producción de maíz utilizando técnic
 
 ## Descripción del Proyecto
 
-Guanajuato es un estado con alta producción de maíz; sin embargo, la variabilidad espacial y temporal en los rendimientos limita la eficiencia productiva. Este proyecto desarrolla un flujo analítico completo para integrar múltiples fuentes de datos agrícolas y construir modelos predictivos que permitan identificar los factores más influyentes en el rendimiento del cultivo.
+Este proyecto desarrolla un flujo analítico completo para integrar múltiples fuentes de datos agrícolas y construir modelos predictivos que permitan identificar los factores más influyentes en el rendimiento del cultivo.
 
 El proyecto implementa un pipeline de ciencia de datos que permite:
 
