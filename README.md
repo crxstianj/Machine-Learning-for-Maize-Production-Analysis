@@ -1,6 +1,6 @@
 # Machine Learning para Analisis de Producción de Maíz
 
-Sistema de análisis y predicción de la producción de maíz utilizando técnicas de **Machine Learning** aplicadas a datos agrícolas. El proyecto busca identificar variables clave que influyen en el rendimiento del cultivo y generar modelos predictivos que apoyen la toma de decisiones en el sector agrícola.
+Sistema de análisis y predicción de la producción de maíz utilizando técnicas de **Machine Learning**. El proyecto busca identificar variables clave que influyen en el rendimiento del cultivo y generar modelos predictivos que apoyen la toma de decisiones en el sector agrícola.
 
 ---
 
