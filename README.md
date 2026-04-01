@@ -22,7 +22,7 @@ El proyecto implementa un pipeline de ciencia de datos que permite:
 
 ## Fuente de Datos
 
-Los datos base fueron proporcionados por la empresa **GPA**, incluyendo:
+Los datos base fueron proporcionados por la empresa **GPA** extraídos mediante sensores, estos incluyen:
 
 - Datos de siembra y cosecha georreferenciados.
 - Datos de suelo.
