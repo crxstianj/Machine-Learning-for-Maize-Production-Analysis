@@ -10,7 +10,6 @@ Este proyecto desarrolla un flujo analítico completo para integrar múltiples f
 
 El proyecto implementa un pipeline de ciencia de datos que permite:
 
-- Analizar factores que afectan la producción de maíz.
 - Integrar datos agrícolas, climáticos y de suelo.
 - Incorporar índices de vegetación obtenidos por satélite.
 - Entrenar modelos predictivos avanzados.
